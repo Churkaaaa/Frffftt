@@ -1,10 +1,10 @@
 import Swift
-var number = 123 
+var number = 5738
 
 let numberAsString = String(number) 
 
-var text = "Hello" 
+var text = "Good" 
 
 let result = text + numberAsString 
 
-print(result) // Выведет "Hello123"
+print(result) // 
