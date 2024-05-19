@@ -1,5 +1,5 @@
 import Swift
-let n = "Илья" 
+let n = "Дарья" 
 for c in n { 
  print(c) 
 }
