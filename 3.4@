@@ -18,11 +18,11 @@ struct Student {
 }
 
 let students = [
-    Student(name: "Вася", grade: 5),
-    Student(name: "Петя", grade: 3),
-    Student(name: "Маша", grade: 4),
-    Student(name: "Саша", grade: 2), 
-    Student(name: "Никита", grade:4)
+    Student(name: "Лена", grade: 4),
+    Student(name: "Вова", grade: 2),
+    Student(name: "Гриша", grade: 5),
+    Student(name: "Маша", grade: 3), 
+    Student(name: "Паша", grade:4)
 ]
 
 
